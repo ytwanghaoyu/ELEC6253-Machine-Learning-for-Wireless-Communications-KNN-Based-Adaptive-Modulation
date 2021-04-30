@@ -1,6 +1,7 @@
 # KNN-Based-Adaptive-Modulation
 
 **Main Idea: Use KNN and thresholds to implement an adaptive modulation system.**
+
 **主要思想:利用KNN或者SNR阈值来制作两个自适应的调制系统.**
 
 In this project, I implement four .m files. Let me explain the tasks and functions of these functions one by one in the logical order of implementing the entire system.
